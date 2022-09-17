@@ -1,0 +1,15 @@
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/bin/Debug/net6.0/home2
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/bin/Debug/net6.0/home2.deps.json
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/bin/Debug/net6.0/home2.runtimeconfig.json
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/bin/Debug/net6.0/home2.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/bin/Debug/net6.0/home2.pdb
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.csproj.AssemblyReference.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.AssemblyInfoInputs.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.AssemblyInfo.cs
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.csproj.CoreCompileInputs.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/refint/home2.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.pdb
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/home2.genruntimeconfig.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home2/obj/Debug/net6.0/ref/home2.dll

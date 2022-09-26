@@ -1,0 +1,15 @@
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.csproj.AssemblyReference.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.GeneratedMSBuildEditorConfig.editorconfig
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.AssemblyInfoInputs.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.AssemblyInfo.cs
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.csproj.CoreCompileInputs.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/bin/Debug/net6.0/home6
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/bin/Debug/net6.0/home6.deps.json
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/bin/Debug/net6.0/home6.runtimeconfig.json
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/bin/Debug/net6.0/home6.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/bin/Debug/net6.0/home6.pdb
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/refint/home6.dll
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.pdb
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/home6.genruntimeconfig.cache
+/home/vicky/Рабочий стол/Lesson 3_1/c#/home6/obj/Debug/net6.0/ref/home6.dll
